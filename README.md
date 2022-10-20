@@ -35,3 +35,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iRiskRisker&theme=tokyonight&line_height=27)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <h4>discord (Risker | ريسكر#0504)</h4>
+</p>
+<h1>More</h1>
+<h3><a href="https://www.instagram.com/iRiskRisker">Instagram</a></h3>
