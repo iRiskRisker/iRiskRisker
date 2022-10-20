@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRiskRisker&layout=compact&hide=vue,html,css,makefile,dockerfile,shell,plpgsql,smarty&theme=tokyonight&line_height=27)
 
 
-[![Mumen's github stats](https://github-readme-stats.vercel.app/api?username=iRiskRisker&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/alfuhigi)
+[![Mumen's github stats](https://github-readme-stats.vercel.app/api?username=iRiskRisker&show_icons=true&theme=tokyonight&line_height=27)]
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iRiskRisker&theme=tokyonight&line_height=27)
